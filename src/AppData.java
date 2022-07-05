@@ -12,4 +12,5 @@ public class AppData {
     public void setData(int[][] data) {
         this.data = data;
     }
+
 }
